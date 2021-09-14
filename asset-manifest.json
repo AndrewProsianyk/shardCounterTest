@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shardCounterTest/static/css/main.ec844dd3.chunk.css",
+    "main.js": "/shardCounterTest/static/js/main.dd012174.chunk.js",
+    "main.js.map": "/shardCounterTest/static/js/main.dd012174.chunk.js.map",
+    "runtime-main.js": "/shardCounterTest/static/js/runtime-main.c6d4b745.js",
+    "runtime-main.js.map": "/shardCounterTest/static/js/runtime-main.c6d4b745.js.map",
+    "static/js/2.b9175557.chunk.js": "/shardCounterTest/static/js/2.b9175557.chunk.js",
+    "static/js/2.b9175557.chunk.js.map": "/shardCounterTest/static/js/2.b9175557.chunk.js.map",
+    "index.html": "/shardCounterTest/index.html",
+    "static/css/main.ec844dd3.chunk.css.map": "/shardCounterTest/static/css/main.ec844dd3.chunk.css.map",
+    "static/js/2.b9175557.chunk.js.LICENSE.txt": "/shardCounterTest/static/js/2.b9175557.chunk.js.LICENSE.txt",
+    "static/media/ancient.97c3704e.png": "/shardCounterTest/static/media/ancient.97c3704e.png",
+    "static/media/sacred.b0926d83.png": "/shardCounterTest/static/media/sacred.b0926d83.png",
+    "static/media/voidS.c4a36b03.png": "/shardCounterTest/static/media/voidS.c4a36b03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d4b745.js",
+    "static/js/2.b9175557.chunk.js",
+    "static/css/main.ec844dd3.chunk.css",
+    "static/js/main.dd012174.chunk.js"
+  ]
+}

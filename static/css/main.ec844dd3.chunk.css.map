@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/counter.module.css","webpack://src/App.module.css"],"names":[],"mappings":"AAAA,0BACE,aACF,CCFA,KACE,wBACF","file":"main.ec844dd3.chunk.css","sourcesContent":[".shardSpan {\r\n  color: aliceblue;\r\n}\r\n","body {\r\n  background-color: rgb(48, 42, 53);\r\n}\r\n"]}
